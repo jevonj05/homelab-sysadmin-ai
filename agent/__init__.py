@@ -1,0 +1,1 @@
+"""Homelab Sysadmin AI package."""
