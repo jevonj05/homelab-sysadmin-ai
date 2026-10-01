@@ -1,0 +1,5 @@
+docker>=7.0,<8
+psutil>=6.0,<8
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+pytest>=8.0,<10
